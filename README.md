@@ -8,7 +8,7 @@ I am a versatile developer with experience in both web development and systems p
 
 | Category | Languages & Technologies |
 | :--- | :--- |
-| **Frontend** | JavaScript (ES6+), Vue.js, HTML5, CSS3 |
+| **Frontend** | JavaScript, Vue.js, HTML5, CSS3 |
 | **Backend** | PHP, Python, C#, SQL (MySQL/PostgreSQL) |
 | **Systems** | C, C++ |
 
@@ -20,4 +20,4 @@ I am a versatile developer with experience in both web development and systems p
 
 ### 📫 Connect with me
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/marek-lenarczyk-38b19938b/)
+- **LinkedIn:** [linkedin.com/in/marek-lenarczyk](https://www.linkedin.com/in/marek-lenarczyk-38b19938b/)

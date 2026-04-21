@@ -23,8 +23,8 @@ I am a **Computer Engineering** student at **Politechnika Opolska**. My passion 
 ---
 
 ### 📊 GitHub Activity
-![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
+![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiramis1234&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiramis1234&layout=compact&theme=radical)
 
 ---
 

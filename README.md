@@ -23,7 +23,7 @@ I automate infrastructure — IaC, CI/CD and containers. My background in offens
  
 ### 📊 GitHub Stats
  
-![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiramis1234&show_icons=true&theme=radical)
+![Marek's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Tiramis1234&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiramis1234&layout=compact&theme=radical)
  
 ---
